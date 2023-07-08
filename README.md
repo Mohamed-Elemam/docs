@@ -22,3 +22,8 @@ Schema: <https://lucid.app/lucidchart/3b81569b-b937-49cf-8cfa-7e3ba02b3a89/edit?
     - Methods:
         - **`movePlayer(player: Player, rollValue: int): void`**
         - **`getCurrentPosition(player: Player): int`**
+
+
+## UML Diagram
+
+![Alt text](image.png)
